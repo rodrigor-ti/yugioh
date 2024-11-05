@@ -1,15 +1,17 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# 🎮🕹️ Yu-Gi-Oh | Jo-ken-po Edition 🎮🕹️
 
-Bem-vindo ao Jo-Ken-Po! Este projeto é uma aplicação interativa desenvolvida durante o curso na Digital Innovation One. O objetivo é replicar o clássico jogo de pedra, papel e tesoura com um tema baseado em Yu-Gi-Oh!, utilizando conceitos fundamentais de programação em JavaScript.
+Este projeto é uma aplicação interativa desenvolvida durante o curso no Digital Innovation One, inspirado no clássico jogo de pedra, papel e tesoura, mas com um toque especial do universo Yu-Gi-Oh! Utilizando conceitos fundamentais de programação em JavaScript.
 
+![image](https://raw.githubusercontent.com/rodrigor-ti/js-developer-pokedex/refs/heads/main/assets/images/pokedex.jpg)
 
-🎮 **Tecnologias Utilizadas**
+ **Tecnologias Utilizadas** 🎯💻
 
-- **HTML5 e CSS3**: Para a estrutura e apresentação da aplicação.
-- **JavaScript**: Para a lógica de programação e interatividade.
+-   **HTML**: Estruturação do conteúdo e elementos da página.
+-   **CSS**: Design responsivo e estilização usando um tema moderno e minimalista, com suporte a fontes externas.
+-   **JavaScript**: Implementação da funcionalidade de carregamento dinâmico.
 
   
-🕹️ **Funcionalidades Incríveis**
+ **Funcionalidades Incríveis** 🕹️🎯💻
 
 - **Seleção de Cartas**: Os jogadores podem selecionar suas cartas de um conjunto.
 - **Duel**: O jogo realiza um duelo entre a carta do jogador e a do computador, exibindo os resultados.
